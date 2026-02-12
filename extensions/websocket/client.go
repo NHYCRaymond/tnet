@@ -20,8 +20,8 @@ import (
 	"strings"
 
 	"github.com/gobwas/ws"
-	"trpc.group/trpc-go/tnet"
-	"trpc.group/trpc-go/tnet/tls"
+	"github.com/NHYCRaymond/tnet"
+	"github.com/NHYCRaymond/tnet/tls"
 )
 
 // Dial creates a client side connection of websocket.

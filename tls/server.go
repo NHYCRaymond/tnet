@@ -18,7 +18,7 @@ import (
 	"net"
 
 	"github.com/pkg/errors"
-	"trpc.group/trpc-go/tnet"
+	"github.com/NHYCRaymond/tnet"
 )
 
 // Handler is the tls connection handler.

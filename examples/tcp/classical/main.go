@@ -18,8 +18,8 @@ import (
 	"encoding/binary"
 	"log"
 
-	"trpc.group/trpc-go/tnet"
-	"trpc.group/trpc-go/tnet/examples/tcp"
+	"github.com/NHYCRaymond/tnet"
+	"github.com/NHYCRaymond/tnet/examples/tcp"
 )
 
 // mode 1 (classical Go/net)

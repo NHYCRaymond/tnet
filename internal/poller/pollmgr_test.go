@@ -17,7 +17,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"trpc.group/trpc-go/tnet/internal/poller"
+	"github.com/NHYCRaymond/tnet/internal/poller"
 )
 
 func TestPollMgr(t *testing.T) {

@@ -16,7 +16,7 @@ package tnet
 import (
 	"time"
 
-	"trpc.group/trpc-go/tnet/internal/poller"
+	"github.com/NHYCRaymond/tnet/internal/poller"
 )
 
 // SetNumPollers is used to set the number of pollers. Generally it is not actively used.

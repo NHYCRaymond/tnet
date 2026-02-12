@@ -20,7 +20,7 @@ import (
 	"log"
 	"net"
 
-	"trpc.group/trpc-go/tnet"
+	"github.com/NHYCRaymond/tnet"
 )
 
 var (

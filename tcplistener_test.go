@@ -22,8 +22,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"trpc.group/trpc-go/tnet/internal/iovec"
-	"trpc.group/trpc-go/tnet/internal/netutil"
+	"github.com/NHYCRaymond/tnet/internal/iovec"
+	"github.com/NHYCRaymond/tnet/internal/netutil"
 )
 
 func TestListen(t *testing.T) {

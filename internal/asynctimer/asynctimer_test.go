@@ -19,7 +19,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"trpc.group/trpc-go/tnet/internal/asynctimer"
+	"github.com/NHYCRaymond/tnet/internal/asynctimer"
 )
 
 type testWrapper struct {

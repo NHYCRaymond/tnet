@@ -15,7 +15,7 @@ package tnet
 
 import (
 	"github.com/panjf2000/ants/v2"
-	"trpc.group/trpc-go/tnet/metrics"
+	"github.com/NHYCRaymond/tnet/metrics"
 )
 
 var (

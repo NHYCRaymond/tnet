@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"go.uber.org/atomic"
-	"trpc.group/trpc-go/tnet/log"
+	"github.com/NHYCRaymond/tnet/log"
 )
 
 // All metrics definitions.

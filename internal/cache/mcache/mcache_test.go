@@ -17,7 +17,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"trpc.group/trpc-go/tnet/internal/cache/mcache"
+	"github.com/NHYCRaymond/tnet/internal/cache/mcache"
 )
 
 func Test_malloc(t *testing.T) {

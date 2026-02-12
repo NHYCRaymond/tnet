@@ -15,7 +15,7 @@
 package main
 
 import (
-	"trpc.group/trpc-go/tnet/examples/udp"
+	"github.com/NHYCRaymond/tnet/examples/udp"
 )
 
 // mode 1 (classical Go/net)

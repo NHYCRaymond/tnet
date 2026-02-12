@@ -17,7 +17,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"trpc.group/trpc-go/tnet/internal/locker"
+	"github.com/NHYCRaymond/tnet/internal/locker"
 )
 
 func TestLocker(t *testing.T) {

@@ -21,7 +21,7 @@ import (
 	"time"
 
 	// Stat reports user statistics.
-	_ "trpc.group/trpc-go/tnet/internal/stat"
+	_ "github.com/NHYCRaymond/tnet/internal/stat"
 )
 
 // BaseConn is common for stream and packet oriented network connection.

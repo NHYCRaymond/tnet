@@ -19,10 +19,10 @@ import (
 	"net"
 
 	"golang.org/x/sys/unix"
-	"trpc.group/trpc-go/tnet/internal/cache/systype"
-	"trpc.group/trpc-go/tnet/internal/iovec"
-	"trpc.group/trpc-go/tnet/internal/netutil"
-	"trpc.group/trpc-go/tnet/metrics"
+	"github.com/NHYCRaymond/tnet/internal/cache/systype"
+	"github.com/NHYCRaymond/tnet/internal/iovec"
+	"github.com/NHYCRaymond/tnet/internal/netutil"
+	"github.com/NHYCRaymond/tnet/metrics"
 )
 
 type tcpListener struct {

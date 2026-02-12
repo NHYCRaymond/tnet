@@ -24,7 +24,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"trpc.group/trpc-go/tnet"
+	"github.com/NHYCRaymond/tnet"
 )
 
 type udpTestCase struct {

@@ -21,8 +21,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"trpc.group/trpc-go/tnet/internal/buffer"
-	"trpc.group/trpc-go/tnet/internal/cache/systype"
+	"github.com/NHYCRaymond/tnet/internal/buffer"
+	"github.com/NHYCRaymond/tnet/internal/cache/systype"
 )
 
 func Test_netFD_FillToBuffer(t *testing.T) {

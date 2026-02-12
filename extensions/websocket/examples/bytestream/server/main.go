@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"log"
 
-	"trpc.group/trpc-go/tnet"
-	"trpc.group/trpc-go/tnet/extensions/websocket"
+	"github.com/NHYCRaymond/tnet"
+	"github.com/NHYCRaymond/tnet/extensions/websocket"
 )
 
 var (

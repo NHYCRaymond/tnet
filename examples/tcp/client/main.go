@@ -21,8 +21,8 @@ import (
 	"log"
 	"time"
 
-	"trpc.group/trpc-go/tnet"
-	"trpc.group/trpc-go/tnet/examples/tcp"
+	"github.com/NHYCRaymond/tnet"
+	"github.com/NHYCRaymond/tnet/examples/tcp"
 )
 
 var (

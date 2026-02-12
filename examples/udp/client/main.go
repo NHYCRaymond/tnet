@@ -19,8 +19,8 @@ import (
 	"log"
 	"time"
 
-	"trpc.group/trpc-go/tnet"
-	"trpc.group/trpc-go/tnet/examples/udp"
+	"github.com/NHYCRaymond/tnet"
+	"github.com/NHYCRaymond/tnet/examples/udp"
 )
 
 func main() {

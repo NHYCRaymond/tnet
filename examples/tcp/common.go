@@ -20,7 +20,7 @@ import (
 	"encoding/binary"
 	"log"
 
-	"trpc.group/trpc-go/tnet"
+	"github.com/NHYCRaymond/tnet"
 )
 
 var (

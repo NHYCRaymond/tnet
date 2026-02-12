@@ -42,7 +42,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/sys/unix"
-	"trpc.group/trpc-go/tnet/internal/netutil"
+	"github.com/NHYCRaymond/tnet/internal/netutil"
 )
 
 func TestSockaddrToTCPAndUDPAddr(t *testing.T) {

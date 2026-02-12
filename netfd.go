@@ -22,10 +22,10 @@ import (
 
 	"go.uber.org/atomic"
 	"golang.org/x/sys/unix"
-	"trpc.group/trpc-go/tnet/internal/iovec"
-	"trpc.group/trpc-go/tnet/internal/netutil"
-	"trpc.group/trpc-go/tnet/internal/poller"
-	"trpc.group/trpc-go/tnet/metrics"
+	"github.com/NHYCRaymond/tnet/internal/iovec"
+	"github.com/NHYCRaymond/tnet/internal/netutil"
+	"github.com/NHYCRaymond/tnet/internal/poller"
+	"github.com/NHYCRaymond/tnet/metrics"
 )
 
 // goSockCloser is used to store go net library conn and listener.

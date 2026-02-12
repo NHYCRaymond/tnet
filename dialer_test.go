@@ -24,7 +24,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"trpc.group/trpc-go/tnet"
+	"github.com/NHYCRaymond/tnet"
 )
 
 func startNetTCPServer(t *testing.T, network, address string, ch chan string) {

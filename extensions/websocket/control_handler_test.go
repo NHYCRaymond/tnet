@@ -19,7 +19,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/require"
-	"trpc.group/trpc-go/tnet/extensions/websocket"
+	"github.com/NHYCRaymond/tnet/extensions/websocket"
 )
 
 func TestReadAnyMessage(t *testing.T) {

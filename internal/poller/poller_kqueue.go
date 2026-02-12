@@ -25,7 +25,7 @@ import (
 
 	"github.com/pkg/errors"
 	"golang.org/x/sys/unix"
-	"trpc.group/trpc-go/tnet/internal/iovec"
+	"github.com/NHYCRaymond/tnet/internal/iovec"
 )
 
 const (

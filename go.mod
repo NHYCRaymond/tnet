@@ -1,4 +1,4 @@
-module trpc.group/trpc-go/tnet
+module github.com/NHYCRaymond/tnet
 
 go 1.18
 

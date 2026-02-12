@@ -17,7 +17,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"trpc.group/trpc-go/tnet/internal/autopostpone"
+	"github.com/NHYCRaymond/tnet/internal/autopostpone"
 )
 
 func TestAutopostpone(t *testing.T) {

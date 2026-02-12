@@ -18,7 +18,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"trpc.group/trpc-go/tnet/internal/timer"
+	"github.com/NHYCRaymond/tnet/internal/timer"
 )
 
 func TestTimerNormal(t *testing.T) {

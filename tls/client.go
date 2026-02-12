@@ -18,7 +18,7 @@ import (
 	"crypto/tls"
 	"strings"
 
-	"trpc.group/trpc-go/tnet"
+	"github.com/NHYCRaymond/tnet"
 )
 
 // Dial creates a client connection.

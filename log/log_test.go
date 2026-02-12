@@ -16,7 +16,7 @@ package log_test
 import (
 	"testing"
 
-	"trpc.group/trpc-go/tnet/log"
+	"github.com/NHYCRaymond/tnet/log"
 )
 
 func TestLog(t *testing.T) {

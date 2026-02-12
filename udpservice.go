@@ -21,10 +21,10 @@ import (
 	"sync"
 
 	goreuseport "github.com/kavu/go_reuseport"
-	"trpc.group/trpc-go/tnet/internal/netutil"
-	"trpc.group/trpc-go/tnet/internal/poller"
-	"trpc.group/trpc-go/tnet/internal/stat"
-	"trpc.group/trpc-go/tnet/log"
+	"github.com/NHYCRaymond/tnet/internal/netutil"
+	"github.com/NHYCRaymond/tnet/internal/poller"
+	"github.com/NHYCRaymond/tnet/internal/stat"
+	"github.com/NHYCRaymond/tnet/log"
 )
 
 // NewUDPService creates a udp service. Ensure that all listeners are listening to the same address.

@@ -25,8 +25,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"trpc.group/trpc-go/tnet"
-	"trpc.group/trpc-go/tnet/internal/buffer"
+	"github.com/NHYCRaymond/tnet"
+	"github.com/NHYCRaymond/tnet/internal/buffer"
 )
 
 var (

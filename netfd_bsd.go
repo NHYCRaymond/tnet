@@ -21,9 +21,9 @@ import (
 	"fmt"
 
 	"golang.org/x/sys/unix"
-	"trpc.group/trpc-go/tnet/internal/buffer"
-	"trpc.group/trpc-go/tnet/internal/cache/mcache"
-	"trpc.group/trpc-go/tnet/internal/netutil"
+	"github.com/NHYCRaymond/tnet/internal/buffer"
+	"github.com/NHYCRaymond/tnet/internal/cache/mcache"
+	"github.com/NHYCRaymond/tnet/internal/netutil"
 )
 
 // FillToBuffer reads packets from UDP connection, and fills to buffer.

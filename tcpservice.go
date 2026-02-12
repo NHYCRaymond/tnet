@@ -22,11 +22,11 @@ import (
 	"time"
 
 	"go.uber.org/atomic"
-	"trpc.group/trpc-go/tnet/internal/iovec"
-	"trpc.group/trpc-go/tnet/internal/netutil"
-	"trpc.group/trpc-go/tnet/internal/poller"
-	"trpc.group/trpc-go/tnet/internal/stat"
-	"trpc.group/trpc-go/tnet/log"
+	"github.com/NHYCRaymond/tnet/internal/iovec"
+	"github.com/NHYCRaymond/tnet/internal/netutil"
+	"github.com/NHYCRaymond/tnet/internal/poller"
+	"github.com/NHYCRaymond/tnet/internal/stat"
+	"github.com/NHYCRaymond/tnet/log"
 )
 
 // NewTCPService creates a tcp Service and binds it to a listener. It is recommended to

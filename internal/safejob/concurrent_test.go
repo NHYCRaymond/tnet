@@ -19,7 +19,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"trpc.group/trpc-go/tnet/internal/safejob"
+	"github.com/NHYCRaymond/tnet/internal/safejob"
 )
 
 func TestConcurrentJob(t *testing.T) {

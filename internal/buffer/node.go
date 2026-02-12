@@ -16,7 +16,7 @@ package buffer
 import (
 	"sync"
 
-	"trpc.group/trpc-go/tnet/internal/cache/mcache"
+	"github.com/NHYCRaymond/tnet/internal/cache/mcache"
 )
 
 var nodePool = sync.Pool{

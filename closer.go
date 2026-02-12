@@ -14,7 +14,7 @@
 package tnet
 
 import (
-	"trpc.group/trpc-go/tnet/internal/safejob"
+	"github.com/NHYCRaymond/tnet/internal/safejob"
 )
 
 type key int

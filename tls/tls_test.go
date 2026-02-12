@@ -25,8 +25,8 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/require"
-	"trpc.group/trpc-go/tnet"
-	"trpc.group/trpc-go/tnet/tls"
+	"github.com/NHYCRaymond/tnet"
+	"github.com/NHYCRaymond/tnet/tls"
 )
 
 var (

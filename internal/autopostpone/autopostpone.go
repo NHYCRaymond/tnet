@@ -18,7 +18,7 @@ import (
 	"math"
 
 	"go.uber.org/atomic"
-	"trpc.group/trpc-go/tnet/metrics"
+	"github.com/NHYCRaymond/tnet/metrics"
 )
 
 const (

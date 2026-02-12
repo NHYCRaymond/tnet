@@ -17,7 +17,7 @@ import (
 	"sync"
 
 	"go.uber.org/atomic"
-	"trpc.group/trpc-go/tnet/internal/locker"
+	"github.com/NHYCRaymond/tnet/internal/locker"
 )
 
 // ExclusiveUnblockJob executes job exclusively, if control is not acquired, directly return.

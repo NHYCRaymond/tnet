@@ -22,7 +22,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/sys/unix"
-	"trpc.group/trpc-go/tnet/internal/iovec"
+	"github.com/NHYCRaymond/tnet/internal/iovec"
 )
 
 func newReader(s string) Reader {

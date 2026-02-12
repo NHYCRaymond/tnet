@@ -19,8 +19,8 @@ import (
 
 	"github.com/gobwas/ws"
 	"github.com/pkg/errors"
-	"trpc.group/trpc-go/tnet"
-	"trpc.group/trpc-go/tnet/tls"
+	"github.com/NHYCRaymond/tnet"
+	"github.com/NHYCRaymond/tnet/tls"
 )
 
 // Handler is the websocket connection handler.

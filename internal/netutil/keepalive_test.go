@@ -18,7 +18,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"trpc.group/trpc-go/tnet/internal/netutil"
+	"github.com/NHYCRaymond/tnet/internal/netutil"
 )
 
 var address = "127.0.0.1:9999"

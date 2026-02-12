@@ -21,8 +21,8 @@ import (
 	"github.com/pkg/errors"
 	"go.uber.org/atomic"
 	"golang.org/x/sys/unix"
-	"trpc.group/trpc-go/tnet/internal/cache/systype"
-	"trpc.group/trpc-go/tnet/internal/iovec"
+	"github.com/NHYCRaymond/tnet/internal/cache/systype"
+	"github.com/NHYCRaymond/tnet/internal/iovec"
 )
 
 const (

@@ -22,15 +22,15 @@ import (
 
 	"go.uber.org/atomic"
 	"golang.org/x/sys/unix"
-	"trpc.group/trpc-go/tnet/internal/autopostpone"
-	"trpc.group/trpc-go/tnet/internal/buffer"
-	"trpc.group/trpc-go/tnet/internal/cache/mcache"
-	"trpc.group/trpc-go/tnet/internal/iovec"
-	"trpc.group/trpc-go/tnet/internal/locker"
-	"trpc.group/trpc-go/tnet/internal/netutil"
-	"trpc.group/trpc-go/tnet/internal/poller"
-	"trpc.group/trpc-go/tnet/internal/timer"
-	"trpc.group/trpc-go/tnet/metrics"
+	"github.com/NHYCRaymond/tnet/internal/autopostpone"
+	"github.com/NHYCRaymond/tnet/internal/buffer"
+	"github.com/NHYCRaymond/tnet/internal/cache/mcache"
+	"github.com/NHYCRaymond/tnet/internal/iovec"
+	"github.com/NHYCRaymond/tnet/internal/locker"
+	"github.com/NHYCRaymond/tnet/internal/netutil"
+	"github.com/NHYCRaymond/tnet/internal/poller"
+	"github.com/NHYCRaymond/tnet/internal/timer"
+	"github.com/NHYCRaymond/tnet/metrics"
 )
 
 // udpconn must implements Conn interface.

@@ -23,9 +23,9 @@ import (
 	"github.com/gobwas/ws"
 	"github.com/gobwas/ws/wsutil"
 	"github.com/pkg/errors"
-	"trpc.group/trpc-go/tnet"
-	"trpc.group/trpc-go/tnet/log"
-	"trpc.group/trpc-go/tnet/tls"
+	"github.com/NHYCRaymond/tnet"
+	"github.com/NHYCRaymond/tnet/log"
+	"github.com/NHYCRaymond/tnet/tls"
 )
 
 // conn implements Conn interface.

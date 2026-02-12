@@ -17,7 +17,7 @@ import (
 	"errors"
 	"sync"
 
-	"trpc.group/trpc-go/tnet/internal/iovec"
+	"github.com/NHYCRaymond/tnet/internal/iovec"
 )
 
 // NewDesc allocates a Desc for file descriptor in general.

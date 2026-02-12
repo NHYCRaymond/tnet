@@ -17,7 +17,7 @@ import (
 	"crypto/tls"
 	"time"
 
-	"trpc.group/trpc-go/tnet"
+	"github.com/NHYCRaymond/tnet"
 )
 
 // conn implements Conn.

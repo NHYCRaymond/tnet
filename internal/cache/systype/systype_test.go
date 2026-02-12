@@ -17,7 +17,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"trpc.group/trpc-go/tnet/internal/cache/systype"
+	"github.com/NHYCRaymond/tnet/internal/cache/systype"
 )
 
 func TestGetIOHdr(t *testing.T) {

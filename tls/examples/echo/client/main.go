@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"log"
 
-	"trpc.group/trpc-go/tnet/tls"
+	"github.com/NHYCRaymond/tnet/tls"
 )
 
 var (

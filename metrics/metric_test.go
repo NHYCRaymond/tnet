@@ -18,7 +18,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"trpc.group/trpc-go/tnet/metrics"
+	"github.com/NHYCRaymond/tnet/metrics"
 )
 
 func TestMetrics(t *testing.T) {

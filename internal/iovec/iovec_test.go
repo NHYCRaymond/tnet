@@ -17,7 +17,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"trpc.group/trpc-go/tnet/internal/iovec"
+	"github.com/NHYCRaymond/tnet/internal/iovec"
 )
 
 func TestIOVEC(t *testing.T) {

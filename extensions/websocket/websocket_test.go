@@ -26,8 +26,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"trpc.group/trpc-go/tnet"
-	"trpc.group/trpc-go/tnet/extensions/websocket"
+	"github.com/NHYCRaymond/tnet"
+	"github.com/NHYCRaymond/tnet/extensions/websocket"
 )
 
 var (

@@ -25,10 +25,10 @@ import (
 
 	"github.com/pkg/errors"
 	"golang.org/x/sys/unix"
-	"trpc.group/trpc-go/tnet/internal/iovec"
-	"trpc.group/trpc-go/tnet/internal/poller/event"
-	"trpc.group/trpc-go/tnet/log"
-	"trpc.group/trpc-go/tnet/metrics"
+	"github.com/NHYCRaymond/tnet/internal/iovec"
+	"github.com/NHYCRaymond/tnet/internal/poller/event"
+	"github.com/NHYCRaymond/tnet/log"
+	"github.com/NHYCRaymond/tnet/metrics"
 )
 
 const (

@@ -24,7 +24,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/sys/unix"
-	"trpc.group/trpc-go/tnet/internal/netutil"
+	"github.com/NHYCRaymond/tnet/internal/netutil"
 )
 
 func newLocalListener(network string) (ln net.Listener, err error) {

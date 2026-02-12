@@ -22,11 +22,11 @@ import (
 	"unsafe"
 
 	"golang.org/x/sys/unix"
-	"trpc.group/trpc-go/tnet/internal/buffer"
-	"trpc.group/trpc-go/tnet/internal/cache/mcache"
-	"trpc.group/trpc-go/tnet/internal/cache/systype"
-	"trpc.group/trpc-go/tnet/internal/netutil"
-	"trpc.group/trpc-go/tnet/metrics"
+	"github.com/NHYCRaymond/tnet/internal/buffer"
+	"github.com/NHYCRaymond/tnet/internal/cache/mcache"
+	"github.com/NHYCRaymond/tnet/internal/cache/systype"
+	"github.com/NHYCRaymond/tnet/internal/netutil"
+	"github.com/NHYCRaymond/tnet/metrics"
 )
 
 // SendPackets sends UDP packets from buffer.
